@@ -24,7 +24,7 @@ $cita_cita      = "Pengusaha kaya raya";
 $rencana        = "Mencapai pendidikan tinggi dan mempunyai usaha sendri";
 
 // ================= MOTTO =================
-$motto = "<span style='background-color:orange;'"<Dunia pasti ada akhirnya, Bintang bintangpun ada umurnya>";
+$motto = "<span style='background-color:orange;'"<Don’t wish your life away>";
 ?>
 
 <!DOCTYPE html>
@@ -71,38 +71,38 @@ $motto = "<span style='background-color:orange;'"<Dunia pasti ada akhirnya, Bint
 
 <h2><i class="fa-solid fa-star"></i> Skills</h2>
 
-<p>HTML - 65%</p>
+<p>HTML - 70%</p>
 
-<p>CSS - 45%</p>
+<p>CSS - 55%</p>
 
-<p>PHP - 50%</p>
+<p>PHP - 55%</p>
 
-<p>MySQL - 50%</p>
+<p>MySQL - 55%</p>
 
-<p>Problem Solving - 65%</p>
+<p>Problem Solving - 60%</p>
 
  <div class="col">
             <h2><i class="fa-solid fa-heart"></i> Hobi & Favorit</h2>
 
 <h2>Hobi </h2>
 <ol>
-  <li>Bermain game</li>
-  <li>Mendengarkan musik</li>
-  <li>Basketball</li>
+  <li>Running</li>
+  <li>Cooking</li>
+  <li>traveling</li>
 </ol>
 
 <h2>Makanan Favorit</h2>
 <ul style="list-style-type:square;">
-  <li>NMie ayam</li>
+  <li>Dimsum</li>
   <li>Nasi goreng</li>
-  <li>Bakso</li>
+  <li>Sea food</li>
 </ul>
 
 <h2>Minuman Favorit</h2>
 <ol type="A">
-  <li>Matcha</li>
-  <li>Susu Strawberry</li>
   <li>Kopi</li>
+  <li>Teh</li>
+  <li>Susu</li>
 </ol>
   <h2><i class="fa-solid fa-rocket"></i> Life</h2>
 <h3>Riwayat Pendidikan</h3>
@@ -115,13 +115,13 @@ $motto = "<span style='background-color:orange;'"<Dunia pasti ada akhirnya, Bint
 </tr>
 <tr>
     <td>SD</td>
-    <td>SD Negeri Pleburan 04 Semarang</td>
+    <td>SD Nergri Lempongsari</td>
     <td>2016</td>
     <td>2022</td>
 </tr>
 <tr>
     <td>SMP</td>
-    <td>SMP Negeri 39 Semarang</td>
+    <td>SMP Negeri 10 Semarang</td>
     <td>2022</td>
     <td>2025</td>
 </tr>
@@ -141,7 +141,7 @@ $motto = "<span style='background-color:orange;'"<Dunia pasti ada akhirnya, Bint
 
 <h2>Keinginan 10 Tahun Mendatang</h2>
 <p>
-  Hai namaku Khayra kafka nur annisa, biasa dipanggil ayra. Umur saya
+  Hai namaku Tiara Rahmadani, biasa dipanggil Tiara. Umur saya
 <b><?= $umur_sekarang ?></b> tahun.<br><br>
 
 10 tahun lagi di tahun <b><?= $tahun_10_lagi ?></b>,
